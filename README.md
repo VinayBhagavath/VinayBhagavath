@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Vinay Bhagavath
+- 👋 Hi, I’m Vinayak Bhagavath
 - 📫 How to reach me: bhagavathvinay@gmail.com or vbhagavath@wisc.edu
