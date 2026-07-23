@@ -4,7 +4,7 @@ Computer Science & Data Science student at UW-Madison (Junior); interested in AI
 - SWE Experience
   - Summer 2023: Keysight (R&D Engineering)
   - Summer 2026: Anduril Partners
-- Recent Programming Projects (Check Pinned!)
+- Recent Programming Projects (appending to pinned)
   - [Music Mosaic](https://github.com/VinayBhagavath/MusicMosaic) 🎼
 - Recent Embedded/Hardware Projects
   - [Arduino LED Music Visualizer](https://github.com/VinayBhagavath/LEDMusicVisualizer) 🎶
