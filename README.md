@@ -7,7 +7,7 @@ Computer Science & Data Science student at UW-Madison; interested in AI/ML, soft
 - Recent Programming Projects (Check Pinned!)
   - [Music Mosaic](https://github.com/VinayBhagavath/MusicMosaic) 🎼
 - Recent Embedded/Hardware Projects
-  - [LED Music Visualizer](https://github.com/VinayBhagavath/LEDMusicVisualizer) 🎶
+  - [Arduino LED Music Visualizer](https://github.com/VinayBhagavath/LEDMusicVisualizer) 🎶
   - [Custom Guitar Pedal/Amp](https://github.com/jonaleonard/Guitar-DSP-Platform) 🎸
   - [Arduino MIDI Controller](https://github.com/jonaleonard/Arduino-Launchpad) 🎹
 
