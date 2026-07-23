@@ -12,4 +12,3 @@ Computer Science & Data Science student at UW-Madison; interested in AI/ML, soft
   - [Arduino MIDI Controller](https://github.com/jonaleonard/Arduino-Launchpad) 🎹
 
 - 📫 How to reach me: bhagavathvinay@gmail.com or vbhagavath@wisc.edu
-- LinkedIn: https://www.linkedin.com/in/vinaybhagavath/
