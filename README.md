@@ -6,6 +6,7 @@ Computer Science & Data Science student at UW-Madison (Junior); interested in AI
   - Summer 2026: Anduril Partners
 - Recent Programming Projects (appending to pinned)
   - [Music Mosaic](https://github.com/VinayBhagavath/MusicMosaic) 🎼
+  - [NVIDIA NemoClaw Open Source Contributor] (https://github.com/NVIDIA/NemoClaw/pull/8239)
 - Recent Embedded/Hardware Projects
   - [Arduino LED Music Visualizer](https://github.com/VinayBhagavath/LEDMusicVisualizer) 🎶
   - [Custom Guitar Pedal/Amp](https://github.com/jonaleonard/Guitar-DSP-Platform) 🎸
